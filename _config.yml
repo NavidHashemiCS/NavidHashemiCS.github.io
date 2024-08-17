@@ -12,7 +12,7 @@ title                    : "Navid's Homepage"
 title_separator          : "-"
 name                     : &name "Navid Hashemi"
 description              : &description "Active Researcher in the intersection of AI and CPS"
-url                      : https://Navidhashemicodes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Navidhashemiwebsite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Navidhashemiwebsite/Navidhashemiwebsite.github.io"
 
