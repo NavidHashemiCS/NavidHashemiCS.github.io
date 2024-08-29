@@ -9,7 +9,7 @@ redirect_from:
 
 ![Neurosymbolic AI introduction](/images/Neurosymbolic AI.jpg){: .align-right width="300px"}
 
-I am a last year PhD student at the Engineering school of the University of Southern California (USC-Viterbi) majoring in Computer Science.
+I am a final-year PhD student in Computer Science at the University of Southern California School of Engineering (USC-Viterbi) , under the supervision of Professor Jyotirmoy Deshmukh.
 
 My research area lies at the intersection of Artificial Intelligence and Temporal Logics, with applications in Formal Verification of Learning Enabled Systems and Neurosymbolic Reinforcement Learning.
 
