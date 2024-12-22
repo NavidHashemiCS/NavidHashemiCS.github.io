@@ -12,9 +12,9 @@ title                    : "Navid's Homepage"
 title_separator          : "-"
 name                     : &name "Navid Hashemi"
 description              : &description "Active Researcher in the intersection of AI and CPS"
-url                      : https://Navidhashemiwebsite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://NavidHashemiCS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Navidhashemiwebsite/Navidhashemiwebsite.github.io"
+repository               : "NavidHashemiCS/NavidHashemiCS.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
