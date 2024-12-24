@@ -9,13 +9,7 @@ main:
     url: /portfolio/
     
   - title: "Publications"
-    url: /publications/
-
-  # - title: "Upcomming Results"
-  #   url: /year-archive/
-    
-  - title: "Talks"
-    url: /talks/      
+    url: /publications/   
     
     
   
