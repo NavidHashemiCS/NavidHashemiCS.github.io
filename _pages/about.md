@@ -9,14 +9,12 @@ redirect_from:
 
 ![Neurosymbolic AI introduction](/images/Neurosymbolic AI.jpg){: .align-right width="300px"}
 
-I am a final-year PhD student in Computer Science at the University of Southern California School of Engineering (USC-Viterbi) , under the supervision of Professor Jyotirmoy Deshmukh.
-
-My research area lies at the intersection of Artificial Intelligence and Temporal Logics, with applications in Formal Verification of Learning Enabled Systems and Neurosymbolic Reinforcement Learning.
+I hold a Ph.D and M.Sc in Computer Science from the University of Southern California School of Engineering (USC-Viterbi). Over my Ph.D and M.Sc I was working on the intersection of Artificial Intelligence and Temporal Logics, a new area that is known as Neuro-symbolic AI. I was researching on Neuro-symbolic learning algorithms with an application on program synthesis and model based reinforcement learning (MBRL). I was also working on software verification and also verification of neuro controller trained with MBRL, to verify satisfaction of temporal specifications when the program or system starts from an unknown initial condition. 
 
 # Selected Experience
 
 ## Open Source Contribution
-I generated the first deterministic formal verification framework for Signal Temporal logics in collaboration with research scientists of Toyota Research Institute North of America (TRINA) [STLVerNN](https://github.com/Navidhashemicodes/STLVerNN) that verifies general Temporal specifications for Learning enabled autonomous systems.
+We generated the first deterministic formal verification framework for Signal Temporal logics in collaboration with research scientists of Toyota Research Institute North of America (TRINA) [STLVerNN](https://github.com/Navidhashemicodes/STLVerNN) This repository can verify a programs satisfies a general temporal task when it starts from an unknown but bounded initial state.
 
 I scaled the process of Neural Feedback Policy Learning for agents to satisfy Signal Temporal Logics specification [STL_dropout](https://github.com/Navidhashemicodes/STL_dropout). This was achieved by combination of stochastic depth (firstly proposed for ResNet) via Neurosymbolic MBRL.
 
