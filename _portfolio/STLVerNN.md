@@ -1,6 +1,6 @@
 ---
 title: "STLVerNN"
-excerpt: "We generated the first deterministic formal verification framework for Signal Temporal logics in collaboration with research scientists of Toyota Research Institute North of America (TRINA) STLVerNN. This repository addresses software verification and verifies a program satisfies a general temporal task when it starts from an unknown but bounded initial state. <br/><img src='/images/STL2NN.png'>"
+excerpt: "We generated the first deterministic formal verification framework for Signal Temporal logics in collaboration with research scientists of Toyota Research Institute North of America (TRINA) and we called this technique STLVerNN. This repository addresses software verification and verifies a program satisfies a general temporal task when it starts from an unknown but bounded initial state. <br/><img src='/images/STL2NN.png'>"
 collection: portfolio
 ---
 
