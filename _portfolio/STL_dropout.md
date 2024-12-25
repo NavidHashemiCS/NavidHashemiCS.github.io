@@ -1,7 +1,6 @@
 ---
 title: "STL_dropout"
-excerpt: "Neural Feedback Policy training for long time horizon tasks and high dimensional systems.<br/><img src='/images/quadapprox_intro.png'>"
+excerpt: " An scalable Neuro-symbolic training algorithm for programs to satisfy long horizon temporal specifications.<br/><img src='/images/quadapprox_intro.png'>"
 collection: portfolio
 ---
-
-In this repository I provided a toolbox that scales the Neurosymbolic algorithm, for neural controller training for temporal tasks to longer time horizon and higher state dimensions. The toolbox is available from [here](https://github.com/Navidhashemicodes/STL_dropout). The main issue for scalability is the problem of vanish/explode gradient when the taks horizon is long or the system dimension is high. We provided a novel gradient approximation technique specifically for policy optimization via Signal Temporal Logics objectives, that combines the idea of [stochastic depth](https://arxiv.org/abs/1603.09382) and the idea of [critical predicates](https://www.sciencedirect.com/science/article/pii/S0304397509004149) for STL. This provides a scalable algorithm that enables us doing policy optimization to satisfy real-world and complex temporal tasks. 
+We scaled the Neuro-symbolic learning algorithms to provide satisfaction for long horizon temporal specifications. Please visit our open source toolbox [STL_dropout](https://github.com/Navidhashemicodes/STL_dropout) for this purpose. This was achieved by involving [stochastic depth](https://arxiv.org/abs/1603.09382) (firstly proposed for ResNet) in a Neuro-symbolic learning algorithm when the symbolic part is defined over a long horizon.
